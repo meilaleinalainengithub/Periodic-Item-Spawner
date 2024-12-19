@@ -3,7 +3,7 @@
 # Periodic Item Spawner
 ## Highly customizable Minecraft Datapack focusing on Giving a Random Item every X seconds.
 
-This is my second datapack, therefore very poorly made. This datapack uses loot tables to randomize the items, which may or may not cause performance issues, however from my testing it doesn't impact much alone. To view all possible items go [item_pool.json]() to The Datapack features the following commands:
+This is my second datapack, therefore very poorly made. This datapack uses loot tables to randomize the items, which may or may not cause performance issues, however from my testing it doesn't impact much alone. To view all possible items go [item_pool.json](https://github.com/meilaleinalainengithub/Periodic-Item-Spawner/blob/main/data/pis/loot_table/item_pool.json) to The Datapack features the following commands:
 
 * /function pis:give_timer {Timer:x} - x=ticks before next mob spawn
 
